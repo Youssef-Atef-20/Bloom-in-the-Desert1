@@ -106,7 +106,7 @@ body{
  }
 
  .links a{
-    font-size: 2.5vh;
+    font-size: 1.5vh;
  }
 
  .nav{
@@ -117,5 +117,6 @@ body{
  .nav img{
     width: 15vw;
  }
+
 
 }
